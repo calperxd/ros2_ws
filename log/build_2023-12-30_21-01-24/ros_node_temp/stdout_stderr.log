@@ -1,0 +1,10 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/temp.dir/src/ros_node_temp.cpp.o[0m
+[01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:[m[K In member function ‘[01m[Kvoid MyNode::timer_callback()[m[K’:
+[01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:44:47:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kstd::basic_istream<char>::__istream_type[m[K’ {aka ‘[01m[Kstd::basic_istream<char>[m[K’} to ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} in assignment
+   44 |                     length = [01;31m[Kserial_port_.read(buffer, sizeof(buffer))[m[K;
+      |                              [01;31m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+      |                                               [01;31m[K|[m[K
+      |                                               [01;31m[Kstd::basic_istream<char>::__istream_type {aka std::basic_istream<char>}[m[K
+gmake[2]: *** [CMakeFiles/temp.dir/build.make:76: CMakeFiles/temp.dir/src/ros_node_temp.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/temp.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,4 @@
+Invoking command in '/home/calper/ros2_ws/build/esp_package_temp': /usr/bin/cmake --build /home/calper/ros2_ws/build/esp_package_temp -- -j16 -l16
+Invoked command in '/home/calper/ros2_ws/build/esp_package_temp' returned '0': /usr/bin/cmake --build /home/calper/ros2_ws/build/esp_package_temp -- -j16 -l16
+Invoking command in '/home/calper/ros2_ws/build/esp_package_temp': /usr/bin/cmake --install /home/calper/ros2_ws/build/esp_package_temp
+Invoked command in '/home/calper/ros2_ws/build/esp_package_temp' returned '0': /usr/bin/cmake --install /home/calper/ros2_ws/build/esp_package_temp

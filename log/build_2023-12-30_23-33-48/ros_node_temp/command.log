@@ -1,0 +1,2 @@
+Invoking command in '/home/calper/ros2_ws/build/ros_node_temp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16
+Invoked command in '/home/calper/ros2_ws/build/ros_node_temp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16

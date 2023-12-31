@@ -1,0 +1,49 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.0.3 (/opt/ros/iron/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Found rclcpp: 21.0.4 (/opt/ros/iron/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 4.0.1 (/opt/ros/iron/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.0.1 (/opt/ros/iron/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.1.0 (/opt/ros/iron/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 7.1.2 (/opt/ros/iron/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found FastRTPS: /opt/ros/iron/include  
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found std_msgs: 5.0.0 (/opt/ros/iron/share/std_msgs/cmake)
+-- Configuring done (1.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/calper/ros2_ws/build/ros_node_temp
+[ 50%] [32mBuilding CXX object CMakeFiles/temp.dir/src/ros_node_temp.cpp.o[0m
+[100%] [32m[1mLinking CXX executable temp[0m
+[100%] Built target temp
+-- Install configuration: ""
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/lib/ros_node_temp/temp
+-- Set non-toolchain portion of runtime path of "/home/calper/ros2_ws/install/ros_node_temp/lib/ros_node_temp/temp" to ""
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/package_run_dependencies/ros_node_temp
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/parent_prefix_path/ros_node_temp
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/ament_prefix_path.sh
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/ament_prefix_path.dsv
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/path.sh
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/path.dsv
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.bash
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.sh
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.zsh
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.dsv
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/package.dsv
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/packages/ros_node_temp
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/cmake/ros_node_tempConfig.cmake
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/cmake/ros_node_tempConfig-version.cmake
+-- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/package.xml

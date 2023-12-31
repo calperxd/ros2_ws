@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/esp_node_temp.dir/src/esp_node_temp.cpp.o -o esp_node_temp 

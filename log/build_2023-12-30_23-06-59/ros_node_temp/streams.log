@@ -1,0 +1,25 @@
+[0.035s] Invoking command in '/home/calper/ros2_ws/build/ros_node_temp': /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16
+[0.053s] [ 50%] [32mBuilding CXX object CMakeFiles/temp.dir/src/ros_node_temp.cpp.o[0m
+[2.896s] [100%] [32m[1mLinking CXX executable temp[0m
+[3.019s] [100%] Built target temp
+[3.023s] Invoked command in '/home/calper/ros2_ws/build/ros_node_temp' returned '0': /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16
+[3.038s] Invoking command in '/home/calper/ros2_ws/build/ros_node_temp': /usr/bin/cmake --install /home/calper/ros2_ws/build/ros_node_temp
+[3.042s] -- Install configuration: ""
+[3.042s] -- Installing: /home/calper/ros2_ws/install/ros_node_temp/lib/ros_node_temp/temp
+[3.044s] -- Set non-toolchain portion of runtime path of "/home/calper/ros2_ws/install/ros_node_temp/lib/ros_node_temp/temp" to ""
+[3.045s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/package_run_dependencies/ros_node_temp
+[3.045s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/parent_prefix_path/ros_node_temp
+[3.045s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/ament_prefix_path.sh
+[3.045s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/ament_prefix_path.dsv
+[3.045s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/path.sh
+[3.046s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/path.dsv
+[3.046s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.bash
+[3.046s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.sh
+[3.046s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.zsh
+[3.047s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.dsv
+[3.047s] -- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/package.dsv
+[3.047s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/packages/ros_node_temp
+[3.047s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/cmake/ros_node_tempConfig.cmake
+[3.047s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/cmake/ros_node_tempConfig-version.cmake
+[3.047s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/package.xml
+[3.047s] Invoked command in '/home/calper/ros2_ws/build/ros_node_temp' returned '0': /usr/bin/cmake --install /home/calper/ros2_ws/build/ros_node_temp

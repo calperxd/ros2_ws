@@ -1,0 +1,20 @@
+[0.043s] Invoking command in '/home/calper/ros2_ws/build/esp_node_temp': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/esp_node_temp -- -j16 -l16
+[0.054s] Invoked command in '/home/calper/ros2_ws/build/esp_node_temp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/esp_node_temp -- -j16 -l16
+[0.069s] Invoking command in '/home/calper/ros2_ws/build/esp_node_temp': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/calper/ros2_ws/build/esp_node_temp
+[0.071s] -- Install configuration: ""
+[0.071s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/ament_index/resource_index/package_run_dependencies/esp_node_temp
+[0.071s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/ament_index/resource_index/parent_prefix_path/esp_node_temp
+[0.071s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/environment/ament_prefix_path.sh
+[0.071s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/environment/ament_prefix_path.dsv
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/environment/path.sh
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/environment/path.dsv
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/local_setup.bash
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/local_setup.sh
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/local_setup.zsh
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/local_setup.dsv
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/package.dsv
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/ament_index/resource_index/packages/esp_node_temp
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/cmake/esp_node_tempConfig.cmake
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/cmake/esp_node_tempConfig-version.cmake
+[0.072s] -- Up-to-date: /home/calper/ros2_ws/install/esp_node_temp/share/esp_node_temp/package.xml
+[0.073s] Invoked command in '/home/calper/ros2_ws/build/esp_node_temp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/calper/ros2_ws/build/esp_node_temp

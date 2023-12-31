@@ -1,0 +1,16 @@
+/home/calper/ros2_ws/install/ros_node_temp/lib/ros_node_temp/temp
+/home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/package_run_dependencies/ros_node_temp
+/home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/parent_prefix_path/ros_node_temp
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/ament_prefix_path.sh
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/ament_prefix_path.dsv
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/path.sh
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/path.dsv
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.bash
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.sh
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.zsh
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.dsv
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/package.dsv
+/home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/packages/ros_node_temp
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/cmake/ros_node_tempConfig.cmake
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/cmake/ros_node_tempConfig-version.cmake
+/home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/package.xml

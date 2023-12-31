@@ -1,0 +1,45 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.0.3 (/opt/ros/iron/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.14.2 (/opt/ros/iron/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/calper/ros2_ws/src/esp_package_temp/include>
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/calper/ros2_ws/build/esp_package_temp
+[ 50%] [32mBuilding CXX object CMakeFiles/esp_node_temp.dir/src/esp_node_temp.cpp.o[0m
+[100%] [32m[1mLinking CXX executable esp_node_temp[0m
+[100%] Built target esp_node_temp
+-- Install configuration: ""
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/lib/esp_package_temp/esp_node_temp
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/ament_index/resource_index/package_run_dependencies/esp_package_temp
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/ament_index/resource_index/parent_prefix_path/esp_package_temp
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/environment/ament_prefix_path.sh
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/environment/ament_prefix_path.dsv
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/environment/path.sh
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/environment/path.dsv
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/local_setup.bash
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/local_setup.sh
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/local_setup.zsh
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/local_setup.dsv
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/package.dsv
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/ament_index/resource_index/packages/esp_package_temp
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/cmake/esp_package_tempConfig.cmake
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/cmake/esp_package_tempConfig-version.cmake
+-- Installing: /home/calper/ros2_ws/install/esp_package_temp/share/esp_package_temp/package.xml

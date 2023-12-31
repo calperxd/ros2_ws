@@ -1,0 +1,11 @@
+[0.056s] Invoking command in '/home/calper/ros2_ws/build/ros_node_temp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16
+[0.082s] [ 50%] [32mBuilding CXX object CMakeFiles/temp.dir/src/ros_node_temp.cpp.o[0m
+[1.913s] [01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:[m[K In member function ‘[01m[Kvoid MyNode::timer_callback()[m[K’:
+[1.913s] [01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:47:34:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass LibSerial::SerialStream[m[K’ has no member named ‘[01m[KRead[m[K’; did you mean ‘[01m[Kread[m[K’?
+[1.913s]    47 |                     serial_port_.[01;31m[KRead[m[K(&byte, 1, 1);
+[1.913s]       |                                  [01;31m[K^~~~[m[K
+[1.913s]       |                                  [32m[Kread[m[K
+[2.584s] gmake[2]: *** [CMakeFiles/temp.dir/build.make:76: CMakeFiles/temp.dir/src/ros_node_temp.cpp.o] Error 1
+[2.584s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/temp.dir/all] Error 2
+[2.584s] gmake: *** [Makefile:146: all] Error 2
+[2.586s] Invoked command in '/home/calper/ros2_ws/build/ros_node_temp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16

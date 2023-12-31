@@ -1,0 +1,25 @@
+[0.056s] Invoking command in '/home/calper/ros2_ws/build/ros_node_temp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16
+[0.082s] [ 50%] [32mBuilding CXX object CMakeFiles/temp.dir/src/ros_node_temp.cpp.o[0m
+[3.594s] [100%] [32m[1mLinking CXX executable temp[0m
+[3.783s] [100%] Built target temp
+[3.787s] Invoked command in '/home/calper/ros2_ws/build/ros_node_temp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16
+[3.803s] Invoking command in '/home/calper/ros2_ws/build/ros_node_temp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/calper/ros2_ws/build/ros_node_temp
+[3.806s] -- Install configuration: ""
+[3.806s] -- Installing: /home/calper/ros2_ws/install/ros_node_temp/lib/ros_node_temp/temp
+[3.808s] -- Set non-toolchain portion of runtime path of "/home/calper/ros2_ws/install/ros_node_temp/lib/ros_node_temp/temp" to ""
+[3.808s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/package_run_dependencies/ros_node_temp
+[3.808s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/parent_prefix_path/ros_node_temp
+[3.808s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/ament_prefix_path.sh
+[3.808s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/ament_prefix_path.dsv
+[3.808s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/path.sh
+[3.808s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/environment/path.dsv
+[3.808s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.bash
+[3.809s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.sh
+[3.809s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.zsh
+[3.809s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/local_setup.dsv
+[3.809s] -- Installing: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/package.dsv
+[3.809s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ament_index/resource_index/packages/ros_node_temp
+[3.809s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/cmake/ros_node_tempConfig.cmake
+[3.809s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/cmake/ros_node_tempConfig-version.cmake
+[3.809s] -- Up-to-date: /home/calper/ros2_ws/install/ros_node_temp/share/ros_node_temp/package.xml
+[3.810s] Invoked command in '/home/calper/ros2_ws/build/ros_node_temp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/calper/ros2_ws/build/ros_node_temp

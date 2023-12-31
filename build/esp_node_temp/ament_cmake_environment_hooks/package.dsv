@@ -1,0 +1,4 @@
+source;share/esp_node_temp/local_setup.bash
+source;share/esp_node_temp/local_setup.dsv
+source;share/esp_node_temp/local_setup.sh
+source;share/esp_node_temp/local_setup.zsh

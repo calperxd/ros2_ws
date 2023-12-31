@@ -1,0 +1,24 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/temp.dir/src/ros_node_temp.cpp.o[0m
+[01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:[m[K In constructor ‘[01m[KMyNode::MyNode()[m[K’:
+[01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:14:46:[m[K [01;31m[Kerror: [m[K‘[01m[KBAUD_115200[m[K’ is not a member of ‘[01m[KLibSerial::SerialPort[m[K’
+   14 |         serial_port_.SetBaudRate(SerialPort::[01;31m[KBAUD_115200[m[K);
+      |                                              [01;31m[K^~~~~~~~~~~[m[K
+[01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:15:26:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[KLibSerial::SerialStream::Open()[m[K’
+   15 |         [01;31m[Kserial_port_.Open()[m[K;
+      |         [01;31m[K~~~~~~~~~~~~~~~~~^~[m[K
+In file included from [01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:4[m[K:
+[01m[K/usr/include/libserial/SerialStream.h:144:14:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid LibSerial::SerialStream::Open(const string&, const openmode&)[m[K’
+  144 |         void [01;36m[KOpen[m[K(const std::string& fileName,
+      |              [01;36m[K^~~~[m[K
+[01m[K/usr/include/libserial/SerialStream.h:144:14:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 0 provided
+[01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:16:9:[m[K [01;31m[Kerror: [m[K‘[01m[Ktimer_[m[K’ was not declared in this scope; did you mean ‘[01m[Ktimer_t[m[K’?
+   16 |         [01;31m[Ktimer_[m[K = this->create_wall_timer(1s, std::bind(&MyNode::timer_callback, this)
+      |         [01;31m[K^~~~~~[m[K
+      |         [32m[Ktimer_t[m[K
+[01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:[m[K In member function ‘[01m[Kvoid MyNode::timer_callback()[m[K’:
+[01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:29:51:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass LibSerial::SerialStream[m[K’ has no member named ‘[01m[KAvailable[m[K’
+   29 |         if (serial_port_.IsOpen() && serial_port_.[01;31m[KAvailable[m[K())
+      |                                                   [01;31m[K^~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/temp.dir/build.make:76: CMakeFiles/temp.dir/src/ros_node_temp.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/temp.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

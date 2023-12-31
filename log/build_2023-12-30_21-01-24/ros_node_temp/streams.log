@@ -1,0 +1,12 @@
+[0.065s] Invoking command in '/home/calper/ros2_ws/build/ros_node_temp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16
+[0.090s] [ 50%] [32mBuilding CXX object CMakeFiles/temp.dir/src/ros_node_temp.cpp.o[0m
+[1.862s] [01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:[m[K In member function ‘[01m[Kvoid MyNode::timer_callback()[m[K’:
+[1.862s] [01m[K/home/calper/ros2_ws/src/ros_node_temp/src/ros_node_temp.cpp:44:47:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kstd::basic_istream<char>::__istream_type[m[K’ {aka ‘[01m[Kstd::basic_istream<char>[m[K’} to ‘[01m[Ksize_t[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} in assignment
+[1.862s]    44 |                     length = [01;31m[Kserial_port_.read(buffer, sizeof(buffer))[m[K;
+[1.862s]       |                              [01;31m[K~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.862s]       |                                               [01;31m[K|[m[K
+[1.862s]       |                                               [01;31m[Kstd::basic_istream<char>::__istream_type {aka std::basic_istream<char>}[m[K
+[2.499s] gmake[2]: *** [CMakeFiles/temp.dir/build.make:76: CMakeFiles/temp.dir/src/ros_node_temp.cpp.o] Error 1
+[2.499s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/temp.dir/all] Error 2
+[2.500s] gmake: *** [Makefile:146: all] Error 2
+[2.502s] Invoked command in '/home/calper/ros2_ws/build/ros_node_temp' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/calper/ros2_ws/build/ros_node_temp -- -j16 -l16
